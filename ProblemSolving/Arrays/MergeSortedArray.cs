@@ -3,7 +3,7 @@
 // https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
 public static class MergeSortedArray
 {
-    public static void Run(int[] nums1, int m, int[] nums2, int n)
+    public static void Solution(int[] nums1, int m, int[] nums2, int n)
     {
         var n1 = m - 1;
         var n2 = n - 1;
