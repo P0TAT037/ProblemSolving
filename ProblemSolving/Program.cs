@@ -1,6 +1,5 @@
-﻿using ProblemSolving.TwoPointers;
+﻿/////////////// IsSubSequence \\\\\\\\\\\\\\
+//IsSubsequence.Solution("abc", "ahbgdc");
+//IsSubsequence.Solution("axc", "ahbgdc");
+//IsSubsequence.Solution("", "ahbgdc");
 
-ValidPalindrom.Solution2("A man, a plan, a canal: Panama");
-ValidPalindrom.Solution2("race a car");
-ValidPalindrom.Solution2("aa");
-ValidPalindrom.Solution2("0P");
