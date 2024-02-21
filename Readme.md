@@ -10,3 +10,7 @@
 
 1. [Valid Palindrom](./ProblemSolving/TwoPointers/ValidPalindrom.cs)
 2. [IsSubsequence](./ProblemSolving/TwoPointers/IsSubsequence.cs)
+
+## Stack
+
+1. [Valid Parentheses](./ProblemSolving/Stack/ValidParentheses.cs)
