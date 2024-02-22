@@ -15,3 +15,5 @@
 ## Stack
 
 1. [Valid Parentheses](./ProblemSolving/Stack/ValidParentheses.cs)
+
+## Hashmap

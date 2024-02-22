@@ -1,4 +1,9 @@
-﻿////////////////// Is Subsequence \\\\\\\\\\\\\\\\\\
+﻿using ProblemSolving.Arrays;
+using ProblemSolving.TwoPointers;
+using ProblemSolving.Stack;
+using ProblemSolving.Hashmap;
+
+////////////////// Is Subsequence \\\\\\\\\\\\\\\\\\
 // IsSubsequence.Solution("abc", "ahbgdc");
 // IsSubsequence.Solution("axc", "ahbgdc");
 // IsSubsequence.Solution("", "ahbgdc");
@@ -17,9 +22,11 @@
 // ValidParentheses.Solution("(){}}{");
 
 ////////////////// Roman to Integer \\\\\\\\\\\\\\\\\\\\\\
-using ProblemSolving.Arrays;
+// RomanToInt.Solution("III"); 
+// RomanToInt.Solution("LVIII"); 
+// RomanToInt.Solution("MCMXCIV"); 
 
-RomanToInt.Solution("III"); 
-RomanToInt.Solution("LVIII"); 
-RomanToInt.Solution("MCMXCIV"); 
-//
+///////////////////// Ransome Note \\\\\\\\\\\\\\\\\\\\\\\\\
+// RansomNote.Solutoin("a", "b");
+// RansomNote.Solutoin("aa", "ab");
+// RansomNote.Solutoin("aa", "aab");
