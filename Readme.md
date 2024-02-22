@@ -17,3 +17,5 @@
 1. [Valid Parentheses](./ProblemSolving/Stack/ValidParentheses.cs)
 
 ## Hashmap
+
+1. [Ransome Note](./ProblemSolving/Hashmap/RansomNote.cs)
