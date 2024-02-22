@@ -30,3 +30,11 @@ using ProblemSolving.Hashmap;
 // RansomNote.Solutoin("a", "b");
 // RansomNote.Solutoin("aa", "ab");
 // RansomNote.Solutoin("aa", "aab");
+
+///////////////////// Word Pattern \\\\\\\\\\\\\\\\\\\\\\\\\
+// WordPattern.Solution("abba", "dog cat cat dog");
+// WordPattern.Solution("abba", "dog cat cat fish");
+// WordPattern.Solution("aaaa", "dog cat cat dog");
+// WordPattern.Solution("aaa", "aa aa aa aa");
+// WordPattern.Solution("abba", "fish whoops helloworld fish");
+// WordPattern.Solution("abba", "dog dog dog dog");

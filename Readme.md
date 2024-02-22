@@ -19,3 +19,4 @@
 ## Hashmap
 
 1. [Ransome Note](./ProblemSolving/Hashmap/RansomNote.cs)
+2. [Word Pattern](./ProblemSolving/Hashmap/WordPattern.cs)
