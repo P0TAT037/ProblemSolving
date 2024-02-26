@@ -38,3 +38,7 @@ using ProblemSolving.Hashmap;
 // WordPattern.Solution("aaa", "aa aa aa aa");
 // WordPattern.Solution("abba", "fish whoops helloworld fish");
 // WordPattern.Solution("abba", "dog dog dog dog");
+
+///////////////////// Majority Element \\\\\\\\\\\\\\\\\\\\\\
+// MajorityElement.Solution3([3, 2, 3]);
+// MajorityElement.Solution3([2, 2, 1, 1, 1, 2, 2]);
