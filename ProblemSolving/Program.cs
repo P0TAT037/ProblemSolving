@@ -2,6 +2,7 @@
 using ProblemSolving.TwoPointers;
 using ProblemSolving.Stack;
 using ProblemSolving.Hashmap;
+using ProblemSolving.Intervals;
 
 ////////////////// Is Subsequence \\\\\\\\\\\\\\\\\\
 // IsSubsequence.Solution("abc", "ahbgdc");
@@ -42,3 +43,7 @@ using ProblemSolving.Hashmap;
 ///////////////////// Majority Element \\\\\\\\\\\\\\\\\\\\\\
 // MajorityElement.Solution3([3, 2, 3]);
 // MajorityElement.Solution3([2, 2, 1, 1, 1, 2, 2]);
+
+//////////////////////// Summary Ranges \\\\\\\\\\\\\\\\\\\\\\\
+// SummaryRanges.Solution([0, 1, 2, 4, 5, 7]);
+// SummaryRanges.Solution([0, 2, 3, 4, 6, 8, 9]);

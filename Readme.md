@@ -13,12 +13,16 @@
 1. [Valid Palindrom](./ProblemSolving/TwoPointers/ValidPalindrom.cs)
 2. [IsSubsequence](./ProblemSolving/TwoPointers/IsSubsequence.cs)
 
-## Stack
-
-1. [Valid Parentheses](./ProblemSolving/Stack/ValidParentheses.cs)
-
 ## Hashmap
 
 1. [Ransome Note](./ProblemSolving/Hashmap/RansomNote.cs)
 2. [Word Pattern](./ProblemSolving/Hashmap/WordPattern.cs)
 3. [Majority Element](./ProblemSolving/Arrays/MajorityElement.cs)
+
+## Intervals
+
+1. [Summary Ranges](./ProblemSolving/Intervals/SummaryRanges.cs)
+
+## Stack
+
+1. [Valid Parentheses](./ProblemSolving/Stack/ValidParentheses.cs)
