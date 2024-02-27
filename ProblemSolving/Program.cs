@@ -50,7 +50,7 @@ using ProblemSolving.Problems.LinkedLists;
 // SummaryRanges.Solution([0, 1, 2, 4, 5, 7]);
 // SummaryRanges.Solution([0, 2, 3, 4, 6, 8, 9]);
 
-/////////////////////// Linked List Cycle\\\\\\\\\\\\\\\\\\\\\\\
+/////////////////////// Linked List Cycle \\\\\\\\\\\\\\\\\\\\\\
 // var linkedList1 = new LinkedList([3, 2, 0, -4]);
 // var linkedList2 = new LinkedList([1, 2]);
 // var linkedList3 = new LinkedList([1]);
@@ -60,3 +60,15 @@ using ProblemSolving.Problems.LinkedLists;
 // LinkedListCycle.Solution(linkedList2.Head);
 // LinkedListCycle.Solution(linkedList3.Head);
 // LinkedListCycle.Solution(linkedList4.Head);
+
+//////////////////// Merge Two Sorted Lists \\\\\\\\\\\\\\\\\\\\
+// var linkedList1 = new LinkedList([1, 2, 4]);
+// var linkedList2 = new LinkedList([1, 3, 4]);
+// var linkedList3 = new LinkedList([]);
+// var linkedList4 = new LinkedList([]);
+// var linkedList5 = new LinkedList([]);
+// var linkedList6 = new LinkedList([0]);
+// ====================
+// MergeTwoSortedLists.Solution(linkedList1.Head, linkedList2.Head);
+// MergeTwoSortedLists.Solution(linkedList3.Head, linkedList4.Head);
+// MergeTwoSortedLists.Solution(linkedList5.Head, linkedList6.Head);

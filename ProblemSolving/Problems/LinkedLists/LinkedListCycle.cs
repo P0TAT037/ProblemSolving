@@ -36,6 +36,7 @@ public class LinkedListCycle
             fastPtr = fastPtr.next.next;
             if(slowPtr == fastPtr) return true;
         }
+        
         return false;
     }
 }
