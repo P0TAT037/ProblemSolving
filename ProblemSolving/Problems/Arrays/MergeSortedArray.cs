@@ -1,4 +1,4 @@
-﻿namespace ProblemSolving.Arrays;
+﻿namespace ProblemSolving.Problems.Arrays;
 
 // https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
 public static class MergeSortedArray

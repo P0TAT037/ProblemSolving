@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace ProblemSolving.Hashmap;
+namespace ProblemSolving.Problems.Hashmap;
 
 // https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150
 
@@ -10,18 +10,18 @@ public class RansomNote
     {
         Dictionary<char, int> ransomFreq = new();
         Dictionary<char, int> magazineFreq = new();
-        
-        foreach(char c in magazine)
+
+        foreach (char c in magazine)
         {
-            if (magazineFreq.ContainsKey(c)) 
+            if (magazineFreq.ContainsKey(c))
                 magazineFreq[c]++;
             else
                 magazineFreq.Add(c, 1);
         }
-        
-        foreach(char c in ransomNote)
+
+        foreach (char c in ransomNote)
         {
-            if (ransomFreq.ContainsKey(c)) 
+            if (ransomFreq.ContainsKey(c))
                 ransomFreq[c]++;
             else
                 ransomFreq.Add(c, 1);
@@ -36,10 +36,10 @@ public class RansomNote
             }
             catch
             {
-                return  false; 
+                return false;
             }
         }
-        
+
         return true;
     }
 

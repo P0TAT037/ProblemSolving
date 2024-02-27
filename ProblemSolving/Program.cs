@@ -1,8 +1,10 @@
-﻿using ProblemSolving.Arrays;
-using ProblemSolving.TwoPointers;
-using ProblemSolving.Stack;
-using ProblemSolving.Hashmap;
-using ProblemSolving.Intervals;
+﻿using ProblemSolving.Problems.Arrays;
+using ProblemSolving.Problems.TwoPointers;
+using ProblemSolving.Problems.Stack;
+using ProblemSolving.Problems.Hashmap;
+using ProblemSolving.Problems.Intervals;
+using ProblemSolving.DataStructures;
+using ProblemSolving.Problems.LinkedLists;
 
 ////////////////// Is Subsequence \\\\\\\\\\\\\\\\\\
 // IsSubsequence.Solution("abc", "ahbgdc");
@@ -47,3 +49,14 @@ using ProblemSolving.Intervals;
 //////////////////////// Summary Ranges \\\\\\\\\\\\\\\\\\\\\\\
 // SummaryRanges.Solution([0, 1, 2, 4, 5, 7]);
 // SummaryRanges.Solution([0, 2, 3, 4, 6, 8, 9]);
+
+/////////////////////// Linked List Cycle\\\\\\\\\\\\\\\\\\\\\\\
+// var linkedList1 = new LinkedList([3, 2, 0, -4]);
+// var linkedList2 = new LinkedList([1, 2]);
+// var linkedList3 = new LinkedList([1]);
+// var linkedList4 = new LinkedList([]);
+// ================
+// LinkedListCycle.Solution(linkedList1.Head);
+// LinkedListCycle.Solution(linkedList2.Head);
+// LinkedListCycle.Solution(linkedList3.Head);
+// LinkedListCycle.Solution(linkedList4.Head);

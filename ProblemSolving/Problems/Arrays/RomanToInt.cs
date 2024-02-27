@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace ProblemSolving.Arrays;
+namespace ProblemSolving.Problems.Arrays;
 
 // https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150
 
@@ -21,9 +21,9 @@ public class RomanToInt
 
         int sum = 0;
         int num;
-        int lastAdded  = (int)conversion[s[s.Length-1]]!;
-        
-        for (int i = s.Length-1; i >= 0; i--)
+        int lastAdded = (int)conversion[s[s.Length - 1]]!;
+
+        for (int i = s.Length - 1; i >= 0; i--)
         {
             num = (int)conversion[s[i]]!;
 
@@ -35,10 +35,10 @@ public class RomanToInt
             {
                 sum += num;
             }
-            
+
             lastAdded = num;
         }
-        
+
         return sum;
     }
 }
