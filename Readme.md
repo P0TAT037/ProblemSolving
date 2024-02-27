@@ -31,3 +31,4 @@
 ## Linked List
 
 1. [Linked List Cycle](./ProblemSolving/Problems/LinkedLists/LinkedListCycle.cs)
+2. [Merge Two Sorted Lists](./ProblemSolving/Problems/LinkedLists/MergeTwoSortedLists.cs)
