@@ -72,3 +72,7 @@ using ProblemSolving.Problems.LinkedLists;
 // MergeTwoSortedLists.Solution(linkedList1.Head, linkedList2.Head);
 // MergeTwoSortedLists.Solution(linkedList3.Head, linkedList4.Head);
 // MergeTwoSortedLists.Solution(linkedList5.Head, linkedList6.Head);
+
+///////////////// Best Time to Buy and Sell Stock \\\\\\\\\\\\\\\\\
+BestTimetoBuyandSellStock.Solution2([7, 1, 5, 3, 6, 4]);
+BestTimetoBuyandSellStock.Solution2([7, 6, 4, 3, 1]);
