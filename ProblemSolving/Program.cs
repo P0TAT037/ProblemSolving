@@ -76,3 +76,8 @@ using ProblemSolving.Problems.LinkedLists;
 ///////////////// Best Time to Buy and Sell Stock \\\\\\\\\\\\\\\\\
 // BestTimetoBuyandSellStock.Solution([7, 1, 5, 3, 6, 4]);
 // BestTimetoBuyandSellStock.Solution([7, 6, 4, 3, 1]);
+
+////////////////////// Length of Last Word \\\\\\\\\\\\\\\\\\\\\\\\\\
+// LengthOfLastWord.Solution("Hello World");
+// LengthOfLastWord.Solution("   fly me   to   the moon  ");
+// LengthOfLastWord.Solution("luffy is still joyboy");

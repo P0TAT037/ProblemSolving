@@ -8,6 +8,7 @@
 4. [Roman to Integer](./ProblemSolving/Problems/Arrays/RomanToInt.cs)
 5. [Majority Element](./ProblemSolving/Problems/Arrays/MajorityElement.cs)
 6. [Best Time to Buy and Sell Stock](./ProblemSolving/Problems/Arrays/BestTimeToBuyAndSellStock.cs)
+7. [Length of Last Word](./ProblemSolving//Problems/Arrays/LengthOfLastWord.cs)
 
 ## Two Pointers
 
