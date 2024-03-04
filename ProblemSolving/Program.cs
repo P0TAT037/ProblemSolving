@@ -81,3 +81,9 @@ using ProblemSolving.Problems.LinkedLists;
 // LengthOfLastWord.Solution("Hello World");
 // LengthOfLastWord.Solution("   fly me   to   the moon  ");
 // LengthOfLastWord.Solution("luffy is still joyboy");
+
+///////////////////// First Occurence in a string \\\\\\\\\\\\\\\\\\\\\\\\\\\
+// FirstOccurence.Solution("sadbutsad", "sad");
+// FirstOccurence.Solution("leetcode", "leeto");
+// FirstOccurence.Solution("hello", "ll");
+// FirstOccurence.Solution("mississippi", "issip");

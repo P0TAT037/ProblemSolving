@@ -9,6 +9,7 @@
 5. [Majority Element](./ProblemSolving/Problems/Arrays/MajorityElement.cs)
 6. [Best Time to Buy and Sell Stock](./ProblemSolving/Problems/Arrays/BestTimeToBuyAndSellStock.cs)
 7. [Length of Last Word](./ProblemSolving//Problems/Arrays/LengthOfLastWord.cs)
+8. [First Occurrence in a string](./ProblemSolving/Problems/Arrays/FirstOccurence.cs)
 
 ## Two Pointers
 
