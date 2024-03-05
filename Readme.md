@@ -13,15 +13,16 @@
 
 ## Two Pointers
 
-1. [Valid Palindrom](./ProblemSolving/Problems/TwoPointers/ValidPalindrom.cs)
+1. [Valid Palindrome](./ProblemSolving/Problems/TwoPointers/ValidPalindrom.cs)
 2. [IsSubsequence](./ProblemSolving/Problems/TwoPointers/IsSubsequence.cs)
 3. [Linked List Cycle](./ProblemSolving/Problems/LinkedLists/LinkedListCycle.cs)
 
 ## Hashmap
 
-1. [Ransome Note](./ProblemSolving/Problems/Hashmap/RansomNote.cs)
+1. [Ransom Note](./ProblemSolving/Problems/Hashmap/RansomNote.cs)
 2. [Word Pattern](./ProblemSolving/Problems/Hashmap/WordPattern.cs)
 3. [Majority Element](./ProblemSolving/Problems/Arrays/MajorityElement.cs)
+4. [Isomorphic Strings](./ProblemSolving/Problems/Hashmap/IsomorphicStrings.cs)
 
 ## Intervals
 

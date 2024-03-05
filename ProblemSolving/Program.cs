@@ -5,6 +5,7 @@ using ProblemSolving.Problems.Hashmap;
 using ProblemSolving.Problems.Intervals;
 using ProblemSolving.DataStructures;
 using ProblemSolving.Problems.LinkedLists;
+using ProblemSolving.Problems;
 
 ////////////////// Is Subsequence \\\\\\\\\\\\\\\\\\
 // IsSubsequence.Solution("abc", "ahbgdc");
@@ -82,8 +83,14 @@ using ProblemSolving.Problems.LinkedLists;
 // LengthOfLastWord.Solution("   fly me   to   the moon  ");
 // LengthOfLastWord.Solution("luffy is still joyboy");
 
-///////////////////// First Occurence in a string \\\\\\\\\\\\\\\\\\\\\\\\\\\
+/////////////////// First Occurence in a string \\\\\\\\\\\\\\\\\\\\\\
 // FirstOccurence.Solution("sadbutsad", "sad");
 // FirstOccurence.Solution("leetcode", "leeto");
 // FirstOccurence.Solution("hello", "ll");
 // FirstOccurence.Solution("mississippi", "issip");
+
+/////////////////////// Isomorphic Strings \\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// IsomorphicStrings.Solution("egg", "add");
+// IsomorphicStrings.Solution("foo", "bar");
+// IsomorphicStrings.Solution("paper", "title");
+// IsomorphicStrings.Solution("badc", "baba");
