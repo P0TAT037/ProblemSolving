@@ -23,6 +23,7 @@
 2. [Word Pattern](./ProblemSolving/Problems/Hashmap/WordPattern.cs)
 3. [Majority Element](./ProblemSolving/Problems/Arrays/MajorityElement.cs)
 4. [Isomorphic Strings](./ProblemSolving/Problems/Hashmap/IsomorphicStrings.cs)
+5. [Happy Number](./ProblemSolving/Problems/Hashmap/HappyNumber.cs)
 
 ## Intervals
 

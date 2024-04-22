@@ -94,3 +94,6 @@ using ProblemSolving.Problems;
 // IsomorphicStrings.Solution("foo", "bar");
 // IsomorphicStrings.Solution("paper", "title");
 // IsomorphicStrings.Solution("badc", "baba");
+
+/////////////////////////// Happy Number \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+HappyNumber.Solution(19);
