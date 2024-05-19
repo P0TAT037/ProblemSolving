@@ -24,6 +24,8 @@
 3. [Majority Element](./ProblemSolving/Problems/Arrays/MajorityElement.cs)
 4. [Isomorphic Strings](./ProblemSolving/Problems/Hashmap/IsomorphicStrings.cs)
 5. [Happy Number](./ProblemSolving/Problems/Hashmap/HappyNumber.cs)
+6. [Contains Duplicate](./ProblemSolving/Problems/Hashmap/ContainsDuplicate.cs)
+7. [Valid Anagram](./ProblemSolving/Problems/Hashmap/ValidAnagram.cs)
 
 ## Intervals
 

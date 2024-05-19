@@ -96,4 +96,13 @@ using ProblemSolving.Problems;
 // IsomorphicStrings.Solution("badc", "baba");
 
 /////////////////////////// Happy Number \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-HappyNumber.Solution(19);
+// HappyNumber.Solution(19);
+
+///////////////////////// Contains Duplicate \\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// ContainsDuplicate.Solution([1,2,3,1]);
+// ContainsDuplicate.Solution([1,2,3,4]);
+// ContainsDuplicate.Solution([1,1,1,3,3,4,3,2,4,2]);
+
+//////////////////////////// Valid Anagram \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// ValidAnagram.Solution("anagram", "nagaram");
+// ValidAnagram.Solution("rat", "car");
