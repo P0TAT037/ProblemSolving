@@ -26,6 +26,7 @@
 5. [Happy Number](./ProblemSolving/Problems/Hashmap/HappyNumber.cs)
 6. [Contains Duplicate](./ProblemSolving/Problems/Hashmap/ContainsDuplicate.cs)
 7. [Valid Anagram](./ProblemSolving/Problems/Hashmap/ValidAnagram.cs)
+8. [Two Sum](./ProblemSolving/Problems/Hashmap/TwoSum.cs)
 
 ## Intervals
 

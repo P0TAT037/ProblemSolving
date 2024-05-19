@@ -106,3 +106,9 @@ using ProblemSolving.Problems;
 //////////////////////////// Valid Anagram \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 // ValidAnagram.Solution("anagram", "nagaram");
 // ValidAnagram.Solution("rat", "car");
+
+//////////////////////////////// Two Sum \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// TwoSum.Solution([2,7,11,15], 9);
+// TwoSum.Solution([3,2,4], 6);
+// TwoSum.Solution([3,3], 6);
+// TwoSum.Solution([3,2,95,4,-3], 92);
