@@ -27,6 +27,7 @@
 6. [Contains Duplicate](./ProblemSolving/Problems/Hashmap/ContainsDuplicate.cs)
 7. [Valid Anagram](./ProblemSolving/Problems/Hashmap/ValidAnagram.cs)
 8. [Two Sum](./ProblemSolving/Problems/Hashmap/TwoSum.cs)
+9. [Group Anagrams](./ProblemSolving/Problems/Hashmap/GroupAnagrams.cs)
 
 ## Intervals
 

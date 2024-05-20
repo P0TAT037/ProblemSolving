@@ -112,3 +112,8 @@ using ProblemSolving.Problems;
 // TwoSum.Solution([3,2,4], 6);
 // TwoSum.Solution([3,3], 6);
 // TwoSum.Solution([3,2,95,4,-3], 92);
+
+////////////////////////////// Group Anagrams \\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// GroupAnagrams.Solution(["eat","tea","tan","ate","nat","bat"]);
+// GroupAnagrams.Solution([""]);
+// GroupAnagrams.Solution(["a"]);
