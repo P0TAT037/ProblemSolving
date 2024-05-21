@@ -12,6 +12,7 @@
 8. [First Occurrence in a string](./ProblemSolving/Problems/Arrays/FirstOccurence.cs)
 9. [Top K Frequent Elements](./ProblemSolving/Problems/Arrays/TopKFrequentElements.cs)
 10. [String Encode and Decode](./ProblemSolving/Problems/Arrays/StringEncodeDecode.cs)
+11. [Product of Array Except Self](./ProblemSolving/Problems/Arrays/ProductOfArrayExceptSelf.cs)
 
 ## Two Pointers
 

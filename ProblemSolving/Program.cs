@@ -125,3 +125,7 @@ using ProblemSolving.Problems;
 /////////////////////////// String Encode Decode \\\\\\\\\\\\\\\\\\\\\\\\\\\\
 // StringEncodeDecode.Decode(StringEncodeDecode.Encode(["neet","code","love","you"])).ForEach(x=>{Console.WriteLine(x);});
 // StringEncodeDecode.Decode(StringEncodeDecode.Encode(["we","say",":","yes"])).ForEach(x=>{Console.WriteLine(x);});
+
+//////////////////////// Product of Array Except Self \\\\\\\\\\\\\\\\\\\\\\\\
+ProductOfArrayExceptSelf.Solution([1,2,3,4]);
+ProductOfArrayExceptSelf.Solution([-1,1,0,-3,3]);
