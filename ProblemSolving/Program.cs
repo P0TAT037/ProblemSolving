@@ -117,3 +117,7 @@ using ProblemSolving.Problems;
 // GroupAnagrams.Solution(["eat","tea","tan","ate","nat","bat"]);
 // GroupAnagrams.Solution([""]);
 // GroupAnagrams.Solution(["a"]);
+
+///////////////////////// Top K Frequent Elements \\\\\\\\\\\\\\\\\\\\\\\\\\
+TopKFrequentElements.Solution([1,1,1,2,2,3], 2);
+TopKFrequentElements.Solution([1], 1);
