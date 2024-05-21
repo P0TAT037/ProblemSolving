@@ -11,6 +11,7 @@
 7. [Length of Last Word](./ProblemSolving//Problems/Arrays/LengthOfLastWord.cs)
 8. [First Occurrence in a string](./ProblemSolving/Problems/Arrays/FirstOccurence.cs)
 9. [Top K Frequent Elements](./ProblemSolving/Problems/Arrays/TopKFrequentElements.cs)
+10. [String Encode and Decode](./ProblemSolving/Problems/Arrays/StringEncodeDecode.cs)
 
 ## Two Pointers
 

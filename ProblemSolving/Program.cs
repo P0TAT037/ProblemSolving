@@ -119,5 +119,9 @@ using ProblemSolving.Problems;
 // GroupAnagrams.Solution(["a"]);
 
 ///////////////////////// Top K Frequent Elements \\\\\\\\\\\\\\\\\\\\\\\\\\
-TopKFrequentElements.Solution([1,1,1,2,2,3], 2);
-TopKFrequentElements.Solution([1], 1);
+// TopKFrequentElements.Solution([1,1,1,2,2,3], 2);
+// TopKFrequentElements.Solution([1], 1);
+
+/////////////////////////// String Encode Decode \\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// StringEncodeDecode.Decode(StringEncodeDecode.Encode(["neet","code","love","you"])).ForEach(x=>{Console.WriteLine(x);});
+// StringEncodeDecode.Decode(StringEncodeDecode.Encode(["we","say",":","yes"])).ForEach(x=>{Console.WriteLine(x);});
