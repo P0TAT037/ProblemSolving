@@ -31,6 +31,7 @@
 7. [Valid Anagram](./ProblemSolving/Problems/Hashmap/ValidAnagram.cs)
 8. [Two Sum](./ProblemSolving/Problems/Hashmap/TwoSum.cs)
 9. [Group Anagrams](./ProblemSolving/Problems/Hashmap/GroupAnagrams.cs)
+10. [Valid Sudoku](./ProblemSolving/Problems/Hashmap/ValidSudoku.cs)
 
 ## Intervals
 
