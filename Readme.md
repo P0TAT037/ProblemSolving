@@ -32,6 +32,7 @@
 8. [Two Sum](./ProblemSolving/Problems/Hashmap/TwoSum.cs)
 9. [Group Anagrams](./ProblemSolving/Problems/Hashmap/GroupAnagrams.cs)
 10. [Valid Sudoku](./ProblemSolving/Problems/Hashmap/ValidSudoku.cs)
+11. [Longest Consecutive Sequence](./ProblemSolving/Problems/Hashmap/LongestConsecutiveSequence.cs)
 
 ## Intervals
 
