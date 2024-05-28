@@ -41,6 +41,7 @@
 ## Stack
 
 1. [Valid Parentheses](./ProblemSolving/Problems/Stack/ValidParentheses.cs)
+2. [MinStack](./ProblemSolving/DataStructures/MinStack.cs)
 
 ## Linked List
 

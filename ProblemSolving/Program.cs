@@ -167,5 +167,15 @@ using ProblemSolving.Problems;
 //     );
 
 //////////////////////// Longest Consecutive Sequence \\\\\\\\\\\\\\\\\\\\\\\\\
-LongestConsecutiveSequence.Solution([100,4,200,1,3,2]);
-LongestConsecutiveSequence.Solution([0,3,7,2,5,8,4,6,0,1]);
+// LongestConsecutiveSequence.Solution([100,4,200,1,3,2]);
+// LongestConsecutiveSequence.Solution([0,3,7,2,5,8,4,6,0,1]);
+
+////////////////////////////////// MinStack \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+// MinStack minStack = new MinStack();
+// minStack.Push(-2);
+// minStack.Push(0);
+// minStack.Push(-3);
+// minStack.GetMin(); // return -3
+// minStack.Pop();
+// minStack.Top();    // return 0
+// minStack.GetMin(); // return -2
