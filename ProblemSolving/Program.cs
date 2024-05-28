@@ -179,3 +179,8 @@ using ProblemSolving.Problems;
 // minStack.Pop();
 // minStack.Top();    // return 0
 // minStack.GetMin(); // return -2
+
+////////////////////// Evaluate Reverse Polish Notation \\\\\\\\\\\\\\\\\\\\\\\\\\
+EvaluateReversePolishNotation.Solution(["2","1","+","3","*"]);
+EvaluateReversePolishNotation.Solution(["4","13","5","/","+"]);
+EvaluateReversePolishNotation.Solution(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]);
