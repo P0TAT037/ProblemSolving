@@ -43,6 +43,7 @@
 1. [Valid Parentheses](./ProblemSolving/Problems/Stack/ValidParentheses.cs)
 2. [MinStack](./ProblemSolving/DataStructures/MinStack.cs)
 3. [Evaluate Reverse Polish Notation](./ProblemSolving/Problems/Stack/EvaluateReversePolishNotation.cs)
+4. [Daily Temperatures](./ProblemSolving/Problems/Stack/DailyTemperatures.cs)
 
 ## Linked List
 

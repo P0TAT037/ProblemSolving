@@ -181,6 +181,11 @@ using ProblemSolving.Problems;
 // minStack.GetMin(); // return -2
 
 ////////////////////// Evaluate Reverse Polish Notation \\\\\\\\\\\\\\\\\\\\\\\\\\
-EvaluateReversePolishNotation.Solution(["2","1","+","3","*"]);
-EvaluateReversePolishNotation.Solution(["4","13","5","/","+"]);
-EvaluateReversePolishNotation.Solution(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]);
+// EvaluateReversePolishNotation.Solution(["2","1","+","3","*"]);
+// EvaluateReversePolishNotation.Solution(["4","13","5","/","+"]);
+// EvaluateReversePolishNotation.Solution(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]);
+
+////////////////////////////// Daily Temperatures \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+DailyTemperatures.Solution([73,74,75,71,69,72,76,73]);
+DailyTemperatures.Solution([30,40,50,60]);
+DailyTemperatures.Solution([30,60,90]);
