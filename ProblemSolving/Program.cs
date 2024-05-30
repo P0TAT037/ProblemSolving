@@ -191,6 +191,14 @@ using ProblemSolving.Problems;
 // DailyTemperatures.Solution([30,60,90]);
 
 //////////////////////////////////// Car Fleet \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-CarFleet.Solution(12, [10, 8, 0, 5, 3], [2, 4, 1, 1, 3]);
-CarFleet.Solution(10, [3], [3]);
-CarFleet.Solution(100, [0,2,4], [4,2,1]);
+// CarFleet.Solution(12, [10, 8, 0, 5, 3], [2, 4, 1, 1, 3]);
+// CarFleet.Solution(10, [3], [3]);
+// CarFleet.Solution(100, [0,2,4], [4,2,1]);
+
+////////////////////////// Largest Rectangle In Histogram \\\\\\\\\\\\\\\\\\\\\\\\\\\
+// LargestRectangleInHistogram.Solution([2,1,5,6,2,3]);
+// LargestRectangleInHistogram.Solution([2,4]);
+// LargestRectangleInHistogram.Solution([4,2,0,3,2,5]);
+// LargestRectangleInHistogram.Solution([2,1,4,5,1,3,3]);
+// LargestRectangleInHistogram.Solution([999,999,999,999]);
+// LargestRectangleInHistogram.Solution([2,3]);
