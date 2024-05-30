@@ -186,6 +186,11 @@ using ProblemSolving.Problems;
 // EvaluateReversePolishNotation.Solution(["10","6","9","3","+","-11","*","/","*","17","+","5","+"]);
 
 ////////////////////////////// Daily Temperatures \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-DailyTemperatures.Solution([73,74,75,71,69,72,76,73]);
-DailyTemperatures.Solution([30,40,50,60]);
-DailyTemperatures.Solution([30,60,90]);
+// DailyTemperatures.Solution([73,74,75,71,69,72,76,73]);
+// DailyTemperatures.Solution([30,40,50,60]);
+// DailyTemperatures.Solution([30,60,90]);
+
+//////////////////////////////////// Car Fleet \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+CarFleet.Solution(12, [10, 8, 0, 5, 3], [2, 4, 1, 1, 3]);
+CarFleet.Solution(10, [3], [3]);
+CarFleet.Solution(100, [0,2,4], [4,2,1]);
